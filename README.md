@@ -36,9 +36,14 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
 
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
+The following video is the application running
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./assets/10-object-oriented-programming-homework-demo.png)
+
+
+https://user-images.githubusercontent.com/51127563/151492589-5aee44e1-cf99-4cc6-bdf5-e049dc8cdd8a.mp4
+
+
+
 
 ## Getting Started
 
@@ -48,4 +53,3 @@ npm test
 npm start
 ```
 
-## Video Recording
